@@ -1,0 +1,4 @@
+name = "Stats"
+uuid = "d456f157-7155-4193-acfa-c607a1fe6422"
+authors = ["TensorDuck "]
+version = "0.1.0"
